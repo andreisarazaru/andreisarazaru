@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreisarazaru
-- 👀 I’m interested in reading books and listening to alternatuve music
+- 👀 I’m interested in reading books and listening to alternative music
 - 🌱 I’m currently in college, but i really want to learn some programming languages
 
 
